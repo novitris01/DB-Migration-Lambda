@@ -1,4 +1,4 @@
-# PostgreSQL to SQL Server Data Migration Lambda Function
+# PostgreSQL to SQL Server Data Migration Lambda Function (Python 3.7)
 
 This Python script is designed to perform data migration from a PostgreSQL database to a SQL Server database, with the ability to batch copy data to improve performance. The script includes functions to connect to both databases, create tables, and copy data from PostgreSQL to SQL Server. It's intended to be used as an AWS Lambda function for serverless data migration.
 
